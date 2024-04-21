@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 npx create-react-app reactgettingstarted
+https://react.dev/learn
+https://react.dev/learn/tutorial-tic-tac-toe
 
 ## Available Scripts
 
